@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# by-products
+DataScientist/Step2_DataAnalVis/3_StorytellingThroughDataVisualization/project1/gender_degrees.png
