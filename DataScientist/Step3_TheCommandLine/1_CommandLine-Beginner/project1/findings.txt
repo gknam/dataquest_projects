@@ -1,0 +1,16 @@
+1. Patterns in the data
+
+Both magnet schools (MS) and schools in juvenile justics facilities (JJS) formed minority. A total of 8 JJS and and 552 MS were included in the dataset.
+
+
+Gender ratio of enrolled students were well balanced in MS, but JJS showed much greater male ratio than female ratio.
+
+2. Gender and race ratios in the data
+White students formed the majority, followed by hispanic and black students, etc. In all groups, male and female ratios were similar.
+
+This demographics of students (collected in 2013-2014) is largely inconsistent with the whole population demographics (from 2015)(https://en.wikipedia.org/wiki/Demography_of_the_United_States#Race_and_ethnicity). The agreeing part was that white people were the majority, but the second biggest group was black, followed by "Some other race". The proportions of some minority groups ("Two or more races" and "Asian") appear similar.
+
+Sex ratio data from 2010 (https://en.wikipedia.org/wiki/Demography_of_the_United_States#Sex_ratios) also largely agrees with this dataset: male-to-female ratio ranges from 1 to 1.048 across ages 0 - 64.
+
+
+
