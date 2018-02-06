@@ -32,3 +32,5 @@ This repository contains projects carried out as part of DataQuest's training
 * Step 5: Probability and Statistics
     * Probability and Statistics in Python: Beginner
         * [Analyzing Movie Reviews](DataScientist/Step5_ProbabilityAndStatistics/1_ProbabilityAndStatisticsInPython-Beginner/project1/AnalyzingMovieReviews.ipynb)
+    * Probability and Statistics in Python: Intermediate
+        * [Winning Jeopardy](DataScientist/Step5_ProbabilityAndStatistics/2_ProbabilityAndStatisticsInPython-Intermediate/project1/WinningJeopardy.ipynb)
