@@ -31,6 +31,7 @@ This repository contains projects carried out as part of DataQuest's training
         * [Creating relations in SQLite](DataScientist/Step4_WorkingWithDataSources/3_SQLAndDatabases-Intermediate/project2/CreatingRelationsInSQLite.ipynb)
     * SQL and Databases: Intermediate (new)
         * [Answering Business Questions using SQL](DataScientist/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project1/AnsweringBusinessQuestionsUsingSQL.ipynb)
+        * [Designing and Creating a Database](DataScientist/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project2/DesigningAndCreatingDatabase.ipynb)
 * Step 5: Probability and Statistics
     * Probability and Statistics in Python: Beginner
         * [Analyzing Movie Reviews](DataScientist/Step5_ProbabilityAndStatistics/1_ProbabilityAndStatisticsInPython-Beginner/project1/AnalyzingMovieReviews.ipynb)
