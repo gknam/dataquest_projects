@@ -42,3 +42,5 @@ This repository contains projects carried out as part of DataQuest's training
         * [Predicting Car Prices](DataScientist/Step6_MachineLearning/1_MachineLearningFundamentals/project1/PredictingCarPrices.ipynb)
     * Linear Regression For Machine Learning
         * [Predicting House Sale Prices](DataScientist/Step6_MachineLearning/4_LinearRegressionForMachineLearning/project1/PredictingHouseSalePrices.ipynb)
+    * Machine Learning in Python: Intermediate
+        * [Predicting the stock market](DataScientist/Step6_MachineLearning/5_MachineLearningInPython-Intermediate/project1/PredictingTheStockMarket.ipynb)
