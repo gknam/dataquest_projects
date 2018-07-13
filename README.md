@@ -46,3 +46,5 @@ This repository contains projects carried out as part of DataQuest's training
         * [Predicting the stock market](DataScientist/Step6_MachineLearning/5_MachineLearningInPython-Intermediate/project1/PredictingTheStockMarket.ipynb)
     * Decision Trees
         * [Predicting Bike Rentals](DataScientist/Step6_MachineLearning/6_DecisionTrees/project1/PredictingBikeRentals.ipynb)
+    * Data Structures and Algorithms
+        * [Efficiencies of matrix search strategies](DataScientist/Step7_AdvancedPythonAndComputerScience/1_DataStructuresAndAlgorithms/project1/EfficienciesOfMatrixSearchStrategies.ipynb)
