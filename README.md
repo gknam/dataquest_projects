@@ -46,5 +46,9 @@ This repository contains projects carried out as part of DataQuest's training
         * [Predicting the stock market](DataScientist/Step6_MachineLearning/5_MachineLearningInPython-Intermediate/project1/PredictingTheStockMarket.ipynb)
     * Decision Trees
         * [Predicting Bike Rentals](DataScientist/Step6_MachineLearning/6_DecisionTrees/project1/PredictingBikeRentals.ipynb)
+* Step 7: Advanced Python and Computer Science
     * Data Structures and Algorithms
         * [Efficiencies of matrix search strategies](DataScientist/Step7_AdvancedPythonAndComputerScience/1_DataStructuresAndAlgorithms/project1/EfficienciesOfMatrixSearchStrategies.ipynb)
+* Step 8: Advanced Topics in Data Science
+    * Kaggle Fundamentals
+        * [Creating a Kaggle Workflow](DataScientist/Step8_AdvancedTopicsInDataScience/1_KaggleFundamentals/project1/CreatingAkaggleWorkflow.ipynb)
