@@ -34,9 +34,9 @@ This repository contains projects carried out as part of DataQuest's training
         * [Designing and Creating a Database](DataScientist/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project2/DesigningAndCreatingDatabase.ipynb)
 * Step 5: Probability and Statistics
     * Probability and Statistics in Python: Beginner
-        * [Analyzing Movie Reviews](DataScientist/Step5_ProbabilityAndStatistics/1_ProbabilityAndStatisticsInPython-Beginner/project1/AnalyzingMovieReviews.ipynb)
+        * [Analyzing Movie Reviews](DataScientist/Step5_ProbabilityAndStatistics/Old_1_ProbabilityAndStatisticsInPython-Beginner/project1/AnalyzingMovieReviews.ipynb)
     * Probability and Statistics in Python: Intermediate
-        * [Winning Jeopardy](DataScientist/Step5_ProbabilityAndStatistics/2_ProbabilityAndStatisticsInPython-Intermediate/project1/WinningJeopardy.ipynb)
+        * [Winning Jeopardy](DataScientist/Step5_ProbabilityAndStatistics/3_ProbabilityAndStatisticsInPython-Intermediate/project1/WinningJeopardy.ipynb)
 * Step 6: Machine Learning
     * Machine Learning Fundamentals
         * [Predicting Car Prices](DataScientist/Step6_MachineLearning/1_MachineLearningFundamentals/project1/PredictingCarPrices.ipynb)
