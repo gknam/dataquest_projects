@@ -33,6 +33,8 @@ This repository contains projects carried out as part of DataQuest's training
         * [Answering Business Questions using SQL](DataScientist/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project1/AnsweringBusinessQuestionsUsingSQL.ipynb)
         * [Designing and Creating a Database](DataScientist/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project2/DesigningAndCreatingDatabase.ipynb)
 * Step 5: Probability and Statistics
+    * Statistics Fundamentals
+        * [Investigating Fandango Movie Ratings](DataScientist/Step5_ProbabilityAndStatistics/1_StatisticsFundamentals/project1/InvestigatingFandangoMovieRatings.ipynb)
     * Probability and Statistics in Python: Beginner
         * [Analyzing Movie Reviews](DataScientist/Step5_ProbabilityAndStatistics/Old_1_ProbabilityAndStatisticsInPython-Beginner/project1/AnalyzingMovieReviews.ipynb)
     * Probability and Statistics in Python: Intermediate
