@@ -35,6 +35,8 @@ This repository contains projects carried out as part of DataQuest's training
 * Step 5: Probability and Statistics
     * Statistics Fundamentals
         * [Investigating Fandango Movie Ratings](DataScientist/Step5_ProbabilityAndStatistics/1_StatisticsFundamentals/project1/InvestigatingFandangoMovieRatings.ipynb)
+    * Statistics Intermediate: Averages and Variability
+        * [Finding the Best Markets to Advertise In](DataScientist/Step5_ProbabilityAndStatistics/2_StatisticsIntermediate-AveragesAndVariability/project1/FindingTheBestMarketsToAdvertiseIn.ipynb)
     * Probability and Statistics in Python: Beginner
         * [Analyzing Movie Reviews](DataScientist/Step5_ProbabilityAndStatistics/Old_1_ProbabilityAndStatisticsInPython-Beginner/project1/AnalyzingMovieReviews.ipynb)
     * Probability and Statistics in Python: Intermediate
