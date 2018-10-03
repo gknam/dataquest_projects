@@ -9,8 +9,8 @@ This repository contains projects carried out as part of DataQuest's training
     * Python Programming: Intermediate
         * [Exploring Gun Deaths in the US](DataScientist/Step1_PythonIntro/2_PythonIntermediate/project1/ExploringGunDeathsInTheUS.ipynb)
 * Step 2: Data Analysis and Visualization
-    * Data Analysis with Pandas: Intermediate
-        * [Analyzing Thanksgiving Dinner](DataScientist/Step2_DataAnalVis/1_pandas/project1/AnalyzingThanksgivingDinner.ipynb)
+    * Pandas and NumPy Fundamentals
+        * [Analyzing Thanksgiving Dinner](DataScientist/Step2_DataAnalVis/1_PandasAndNumPyFundamentals/Old_Before20180921/project1/AnalyzingThanksgivingDinner.ipynb)
     * Exploratory Data Visualization
         * [Visualizing Earnings Based On College Majors](DataScientist/Step2_DataAnalVis/2_dataAnalVis/project1/Visualizing_Earnings_Based_On_College_Majors.ipynb)
     * Storytelling Through Data Visualization
