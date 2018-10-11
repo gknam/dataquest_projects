@@ -26,10 +26,10 @@ This repository contains projects carried out as part of DataQuest's training
         * [Transforming data with Python](Step3_TheCommandLine/2_CommandLine-Intermediate/project1/TransformingDataWithPython.ipynb)
 * Step 4: Working with Data Sources
     * SQL Fundamentals
-        * [Analyzing CIA Factbook Data Using SQLite and Python](Step4_WorkingWithDataSources/2_SQLfundamentals/project1/AnalyzingCIAfactbookDataUsingSQLiteAndPython.ipynb)
+        * [Analyzing CIA Factbook Data Using SQLite and Python](Step4_WorkingWithDataSources/1_SQLfundamentals/project1/AnalyzingCIAfactbookDataUsingSQLiteAndPython.ipynb)
     * SQL and Databases: Intermediate (old)
-        * [Preparing data for SQLite](Step4_WorkingWithDataSources/Old_3_SQLAndDatabases-Intermediate/project1/PreparingDataForSQLite.ipynb)
-        * [Creating relations in SQLite](Step4_WorkingWithDataSources/Old_3_SQLAndDatabases-Intermediate/project2/CreatingRelationsInSQLite.ipynb)
+        * [Preparing data for SQLite](Step4_WorkingWithDataSources/Old_2_SQLAndDatabases-Intermediate/project1/PreparingDataForSQLite.ipynb)
+        * [Creating relations in SQLite](Step4_WorkingWithDataSources/Old_2_SQLAndDatabases-Intermediate/project2/CreatingRelationsInSQLite.ipynb)
     * SQL and Databases: Intermediate (new)
         * [Answering Business Questions using SQL](Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project1/AnsweringBusinessQuestionsUsingSQL.ipynb)
         * [Designing and Creating a Database](Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project2/DesigningAndCreatingDatabase.ipynb)
