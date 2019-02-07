@@ -31,7 +31,7 @@ This repository contains projects carried out as part of DataQuest's training
         * [Preparing data for SQLite](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step4_WorkingWithDataSources/Old_2_SQLAndDatabases-Intermediate/project1/PreparingDataForSQLite.ipynb) - Database (query), data cleaning, feature processing
         * [Creating relations in SQLite](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step4_WorkingWithDataSources/Old_2_SQLAndDatabases-Intermediate/project2/CreatingRelationsInSQLite.ipynb) - Database (creation, query)
     * SQL and Databases: Intermediate (new)
-        * [Answering Business Questions using SQL](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project1/AnsweringBusinessQuestionsUsingSQL.ipynb) - Database (query), data visualisation (interactive), data  analysis
+        * [Answering Business Questions using SQL](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project1/AnsweringBusinessQuestionsUsingSQL.ipynb) - Database (query), data visualisation (interactive), data analysis
         * [Designing and Creating a Database](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step4_WorkingWithDataSources/2_SQLIntermediate-TableRelationsAndJoins/project2/DesigningAndCreatingDatabase.ipynb) - Database (design, creation)
 * Step 5: Probability and Statistics
     * Statistics Fundamentals
