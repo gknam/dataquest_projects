@@ -1,6 +1,8 @@
+# Data science projects (guided)
+
 This repository contains projects carried out as part of DataQuest's training.
 
-Following are abbreviations for the skills demonstrated in each project.
+Projects are listed in the table. Following are abbreviations for the skills demonstrated in each project.
 
 * DB: Database
 * ANA: Data analysis
@@ -17,7 +19,7 @@ Following are abbreviations for the skills demonstrated in each project.
 
 
 
-# Guided projects
+
 
 |&nbsp;|ML|F_ENG|F_PRC|STAT|STAT_DSC|PRB|ANA|VIS|VIS_I|DB|CLN|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -45,5 +47,4 @@ Following are abbreviations for the skills demonstrated in each project.
 |[Predicting House Sale Prices](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step6_MachineLearning/4_LinearRegressionForMachineLearning/project1/PredictingHouseSalePrices.ipynb)|ML|F_ENG|F_PRC|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|CLN|
 |[Predicting the stock market](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step6_MachineLearning/5_MachineLearningInPython-Intermediate/project1/PredictingTheStockMarket.ipynb)|ML|&nbsp;|F_PRC|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|CLN|
 |[Predicting Bike Rentals](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step6_MachineLearning/6_DecisionTrees/project1/PredictingBikeRentals.ipynb)|ML|&nbsp;|F_PRC|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|CLN|
-|[Efficiencies of matrix search strategies](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step7_AdvancedPythonAndComputerScience/1_DataStructuresAndAlgorithms/project1/EfficienciesOfMatrixSearchStrategies.ipynb)|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|VIS|&nbsp;|&nbsp;|&nbsp;|
 |[Creating a Kaggle Workflow](https://github.com/gknam/projects/blob/master/DataScience/DataQuest/Step8_AdvancedTopicsInDataScience/1_KaggleFundamentals/project1/CreatingAkaggleWorkflow.ipynb)|ML|F_ENG|F_PRC|&nbsp;|&nbsp;|&nbsp;|&nbsp;|VIS|&nbsp;|&nbsp;|&nbsp;|
