@@ -4,7 +4,7 @@ This repository contains projects carried out as part of DataQuest's training.
 
 Projects are listed in the table. Following are abbreviations for the skills demonstrated in each project.
 
-* DB: Database
+* DB: Database (SQLite)
 * ANA: Data analysis
 * CLN: Data cleaning
 * F_ENG: Feature engineering
